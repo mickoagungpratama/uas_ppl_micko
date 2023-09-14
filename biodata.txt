@@ -1,0 +1,11 @@
+Nama: Micko Agung Pratama
+NPM:20312140
+Prodi:Informatika
+
+Link hasil perencanaan sistem menggunakan BRD:
+*upload BRD ke drive dan pastikan akses file bersifat public
+https://drive.google.com/file/d/1QJ-k24N6Y0fV3oTV8nuQeVsFIYV8Lp2c/view?usp=sharing
+
+Link hasil perencanaan sistem menggunakan Trello:
+*upload link trello dan pastikan akses board bersifat public
+https://trello.com/invite/b/lmK96zqJ/ATTI2650493959496d9731cefc767b5147a2E8964543/web-klinik-kesehatan
